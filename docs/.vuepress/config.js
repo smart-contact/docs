@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/docs/',
+    base: '/smartcontact-docs/',
     dest: 'smartcontact-docs',
     title:'SmartContact | Docs',
     head: [
