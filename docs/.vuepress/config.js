@@ -1,6 +1,6 @@
 module.exports = {
-    base: '/smartcontact-docs/',
-    dest: 'smartcontact-docs',
+    base: '/sc-docs/',
+    dest: 'sc-docs',
     title:'SmartContact | Docs',
     head: [
         ['link', { rel: 'icon', href: 'https://avatars2.githubusercontent.com/u/59726209?s=200&v=4' }]
